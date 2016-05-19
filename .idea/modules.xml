@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manager.iml" filepath="$PROJECT_DIR$/.idea/modules/manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manager.util/manager.util.iml" filepath="$PROJECT_DIR$/.idea/modules/manager.util/manager.util.iml" group="manager.util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manager.util/manager.util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/manager.util/manager.util_main.iml" group="manager.util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manager.util/manager.util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/manager.util/manager.util_test.iml" group="manager.util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manager_main.iml" filepath="$PROJECT_DIR$/.idea/modules/manager_main.iml" group="manager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manager_test.iml" filepath="$PROJECT_DIR$/.idea/modules/manager_test.iml" group="manager" />
+    </modules>
+  </component>
+</project>
